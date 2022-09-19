@@ -24,6 +24,7 @@ h1, h2{
 #logo{
     float: left;
     font-size:200%;
+    margin-left: 30px;
 }
 
 /*navigation*/
@@ -102,4 +103,25 @@ h1, h2{
     right: 150px;
 
     position:absolute;
+}
+
+#club-ethos{
+    height: 600px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width:33%;
+    float:left;
+}
+
+#right-about{
+    padding-top: 30px;
+    width:33%;
+    float:right;
+}
+
+#center-about{
+    padding-top: 30px;
+    margin: 0 auto;
 }
